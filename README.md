@@ -49,7 +49,7 @@ Java microservices for live streaming and commerce, with a React + TypeScript de
 ## GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zzl-qz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=zzl-qz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com?user=zzl-qz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -59,7 +59,7 @@ Java microservices for live streaming and commerce, with a React + TypeScript de
 
 <div align="center">
   <img width="100%" src="https://ghchart.rshah.org/zzl-qz" alt="GitHub contribution heatmap" />
-  <img src="https://github-profile-trophy.vercel.app/?username=zzl-qz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=zzl-qz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
