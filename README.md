@@ -50,10 +50,11 @@ Capable of parsing project context, planning programming tasks and auto-fixing b
 ### 📊 GitHub Overview
 <div align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=zzl-qz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=zzl-qz&theme=tokyonight&hide_border=true"/>
+<img width="400" src="https://streak-stats.demolab.com/?user=zzl-qz&theme=tokyonight&hide_border=true"/>
 <br/>
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzl-qz&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
 
 ---
 
