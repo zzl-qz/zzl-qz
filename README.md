@@ -64,7 +64,7 @@ Capable of parsing project context, planning programming tasks and auto-fixing b
 - Build practical, embeddable developer tools for AI-assisted coding
 
 ### 📫 Contact
-- Email: your-email@example.com
+- Email: 2080879934@qq.com
 - Feel free to open issues, send suggestions or discuss technical ideas.
 
 ---
