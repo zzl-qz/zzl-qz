@@ -10,12 +10,34 @@
 ---
 
 ### 🛠️ Skills
-| Area | Stack |
-| --- | --- |
-| Languages |   |
-| Backend |    |
-| Distributed Systems | Nacos · RocketMQ · Redis · MySQL · ShardingSphere · Service Discovery · API Gateway |
-| Agent Engineering | Native Java agents · LLM integration · Code generation · Review · Refactoring · Ops automation |
+<div align="center">
+
+**Languages**
+<br>
+
+
+
+<br>
+
+**Backend**
+<br>
+
+
+
+
+<br>
+
+**Distributed Systems**
+<br>
+Nacos · RocketMQ · Redis · MySQL · ShardingSphere · Service Discovery · API Gateway
+
+<br>
+
+**Agent Engineering**
+<br>
+Native Java agents · LLM integration · Code generation · Review · Refactoring · Ops automation
+
+</div>
 
 ---
 
@@ -74,6 +96,10 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 ---
 
 ### 📮 Contact
-- Email: [2080879934@qq.com](mailto:2080879934@qq.com)
-- Blog: [CSDN](https://blog.csdn.net/2301_80275666)
-- GitHub: [@zzl-qz](https://github.com/zzl-qz)
+<div align="center">
+Email: [2080879934@qq.com](mailto:2080879934@qq.com)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+Blog: [CSDN](https://blog.csdn.net/2301_80275666)
+&nbsp;&nbsp;|&nbsp;&nbsp;
+GitHub: [@zzl-qz](https://github.com/zzl-qz)
+</div>
