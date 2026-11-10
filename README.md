@@ -85,10 +85,12 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 ---
 
 ### 📮 Contact
-<div align="left">
-Email: [2080879934@qq.com](mailto:2080879934@qq.com)
-<br>
-Blog: [CSDN](https://blog.csdn.net/2301_80275666)
-<br>
-GitHub: [@zzl-qz](https://github.com/zzl-qz)
+<div align="center">
+
+<a href="mailto:2080879934@qq.com">📧 2080879934@qq.com</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://blog.csdn.net/2301_80275666">📝 CSDN Blog</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/zzl-qz">🐙 @zzl-qz</a>
+
 </div>
