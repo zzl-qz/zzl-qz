@@ -85,7 +85,7 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 ---
 
 ### 📮 Contact
-<div align="center">
+<div align="left">
 Email: [2080879934@qq.com](mailto:2080879934@qq.com)
 <br>
 Blog: [CSDN](https://blog.csdn.net/2301_80275666)
