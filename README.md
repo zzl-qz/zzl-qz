@@ -9,32 +9,21 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 <div align="center">
 
-**Languages**
-<br>
 
 
-
-<br>
-
-**Backend**
-<br>
 
 
 
 
 <br>
 
-**Distributed Systems**
-<br>
 Nacos · RocketMQ · Redis · MySQL · ShardingSphere · Service Discovery · API Gateway
 
 <br>
 
-**Agent Engineering**
-<br>
 Native Java agents · LLM integration · Code generation · Review · Refactoring · Ops automation
 
 </div>
