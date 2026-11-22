@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm zzl-qz 👋
+# Hi, I'm Daylight 👋
 **Backend Engineer | Java & TypeScript | Microservices & AI Agents**
 
 > *Peel back abstractions, reveal the truth.*
@@ -31,19 +31,19 @@ Native Java agents · LLM integration · Code generation · Review · Refactorin
 ---
 
 ### 📦 Featured Projects
-#### [Rover-Suite](https://github.com/zzl-qz/Rover-Suite)
+#### [Rover-Suite](https://github.com/Daylight/Rover-Suite)
 Lightweight microservice infrastructure that replaces manual upstream configuration with service discovery and gateway routing.
 - Built-in registry, dynamic routing, load balancing for mixed-language services
 - Runtime metrics & route visibility; Ops Agent for runtime troubleshooting
 - Approval-gated traffic changes with verification and rollback
 - `1.0.0-SNAPSHOT` single-node preview
 
-#### [Pilot](https://github.com/zzl-qz/Pilot)
+#### [Pilot](https://github.com/Daylight/Pilot)
 Self-contained coding agent built from scratch with native Java, no heavy framework bindings.
 - Parses project structure to generate code, support review, refactoring and bug fixing
 - Designed to embed into custom developer platforms and IDE workflows
 
-#### [XY Live](https://github.com/zzl-qz/xy-live)
+#### [XY Live](https://github.com/Daylight/xy-live)
 Java microservices for live streaming and commerce, with React + TypeScript demo client.
 - Dubbo services, RocketMQ messaging, Nacos discovery & configuration
 - Netty WebSocket/TCP IM gateway: ACK delivery, online routing, offline messages
@@ -53,10 +53,10 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=zzl-qz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&disable_animations=true&hide=contribs" alt="GitHub Stats" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=zzl-qz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="45%" src="https://github-stats-extended.vercel.app/api?username=Daylight&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&disable_animations=true&hide=contribs" alt="GitHub Stats" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=Daylight&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
-  <img width="90%" src="https://ghchart.rshah.org/zzl-qz" alt="GitHub contribution heatmap" />
+  <img width="90%" src="https://ghchart.rshah.org/Daylight" alt="GitHub contribution heatmap" />
 </div>
 
 ---
@@ -66,7 +66,7 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 - **XY Live load test**: Local environment test result (not production guarantee):
   - 100 threads: 409.1 req/s, p99 418ms, 0% error
   - 500 threads: 459.9 req/s, 0.63% error
-  - Report: [login benchmark](https://github.com/zzl-qz/xy-live/blob/master/xy-live-user-provider/docs/%E7%99%BB%E5%BD%95%E6%8E%A5%E5%8F%A3%E5%8E%8B%E6%B5%8B%E6%8A%A5%E5%91%8A.md)
+  - Report: [login benchmark](https://github.com/Daylight/xy-live/blob/master/xy-live-user-provider/docs/%E7%99%BB%E5%BD%95%E6%8E%A5%E5%8F%A3%E5%8E%8B%E6%B5%8B%E6%8A%A5%E5%91%8A.md)
 
 ---
 
@@ -91,6 +91,6 @@ Java microservices for live streaming and commerce, with React + TypeScript demo
 &nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="https://blog.csdn.net/2301_80275666">📝 CSDN Blog</a>
 &nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://github.com/zzl-qz">🐙 @zzl-qz</a>
+<a href="https://github.com/Daylight">🐙 @Daylight</a>
 
 </div>
